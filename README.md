@@ -12,4 +12,4 @@ The data is stored locally using JSON format, this means that even if you refres
 
 Additionally, the Google Calendar Icon should take you to said Calendar to add the ToDo in there. (Yet to be added)
 
-Feel free to visit the project on <a href="www.google.com">Link</a>
+Feel free to visit the project on <a href="https://yassershkeir.github.io/angToDo-page/">Link</a>
