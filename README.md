@@ -11,3 +11,5 @@ You can add a ToDo, which contains a name, time of start and time of ending. ToD
 The data is stored locally using JSON format, this means that even if you refresh, close the web app, restart pc, etc... your ToDos will stay there.
 
 Additionally, the Google Calendar Icon should take you to said Calendar to add the ToDo in there. (Yet to be added)
+
+Feel free to visit the project on <a href="www.google.com">Link</a>
